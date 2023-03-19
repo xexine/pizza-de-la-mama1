@@ -1,0 +1,72 @@
+
+body{
+	color: black;
+	background: linear-gradient(to bottom, #FF0000,#FBFBEF,#04B404)
+}
+header h1{
+	color: black;
+	font-size: 50px;
+	text-align: center;
+}
+nav{
+	text-align: right;
+	margin: 2px;
+}
+.languages{ 
+	text-align: center;
+}
+	
+#about h2{
+	color:black;
+	font-size:35px; 
+}
+#about p{
+	text-align: center;
+	color:black;
+	font-size: 20px;
+}
+#products{
+	align-content: center;
+	position: center;
+	padding: 3px
+	font-size:35px;
+}
+#products 
+h2{
+	font-size: 35px;
+}
+h3{
+	font-size: 20px;
+}
+p {
+	text-align: center;
+	color:black;
+}
+ul{
+	text-align: center;
+	vertical-align: middle;
+}
+
+#faq-section{
+	color: black;
+	font-size: 35px;
+}
+
+.faq-list h3{
+	text-align: center;
+	font-size: 15px;
+}
+.faq-list p{
+	text-align: center;
+	color: black;
+}
+#social-media{
+	text-align: center;
+}
+.easter.egg{
+
+}
+.contact-info{
+
+}
+
